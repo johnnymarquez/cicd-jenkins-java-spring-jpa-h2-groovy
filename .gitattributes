@@ -4,3 +4,5 @@
 # These are explicitly windows files and should use crlf
 *.bat           text eol=crlf
 
+# Auto detect text files and perform LF normalization
+* text=auto
